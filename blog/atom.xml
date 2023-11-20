@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.radxa.com/blog</id>
-    <title>My Docusaurus Blog RSS Feed</title>
+    <title>Radxa News</title>
     <updated>2023-07-24T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.radxa.com/blog"/>
-    <subtitle>This is the RSS feed for my Docusaurus blog.</subtitle>
+    <subtitle>Radxa's News is where you can find the newest product information, community updates, and more.</subtitle>
     <icon>http://www.radxa.com/Radxa.svg</icon>
     <entry>
         <title type="html"><![CDATA[Radxa Community Updates - Weeks 28-29]]></title>

@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "My Docusaurus Blog RSS Feed",
+    "title": "Radxa News",
     "home_page_url": "http://www.radxa.com/blog",
-    "description": "This is the RSS feed for my Docusaurus blog.",
+    "description": "Radxa's News is where you can find the newest product information, community updates, and more.",
     "items": [
         {
             "id": "http://www.radxa.com/blog/Radxa-Community-Updates-28-29",
