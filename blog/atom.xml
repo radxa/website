@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.radxa.com/blog</id>
     <title>Radxa News</title>
-    <updated>2024-03-19T10:00:00.000Z</updated>
+    <updated>2024-03-24T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.radxa.com/blog"/>
     <subtitle>Radxa's News is where you can find the newest product information, community updates, and more.</subtitle>
     <icon>http://www.radxa.com/Radxa.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Radxa ROCK 5C Launch]]></title>
+        <id>http://www.radxa.com/blog/ROCK-5C-Official-Announcement</id>
+        <link href="http://www.radxa.com/blog/ROCK-5C-Official-Announcement"/>
+        <updated>2024-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Radxa ROCK 5C]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Radxa ROCK 5C" src="http://www.radxa.com/assets/images/spec_rock_5c_04-8f5e0ac73b1756cfa57e1b58005634ea.webp" width="2080" height="1168" class="img_ev3q"></p>
+<p>Radxa has officially unveiled its new generation of ROCK single-board computer - the Radxa ROCK 5C. As the latest flagship in the ROCK 5 series, ROCK 5C not only inherits the exceptional performance of its predecessor but also achieves significant improvements and upgrades in both functionality and design.</p>
+<p>In terms of core configuration, ROCK 5C offers two SoC options: RK3582 and RK3588S2, catering to the needs of different user groups. Equipped with powerful Arm Cortex-A76 and ARM Cortex-A55 processors, it ensures outstanding performance across various application scenarios. Furthermore, ROCK 5C's camera, display, and etc interfaces have received comprehensive support from the Radxa accessory series, providing users with more possibilities and convenience, further enriching Radxa's hardware ecosystem.</p>
+<p>Regarding functional expansion, ROCK 5C introduces a PCIe 2.1 interface through an FPC connector, significantly enhancing its expansion flexibility. Users can easily perform SSD expansion, SATA expansion, 2.5G Ethernet expansion, and more, providing robust support for different application scenarios. Additionally, ROCK 5C comes with WiFi 6 and BT 5.4 wireless modules, further boosting its capabilities in wireless communication.</p>
+<p>In terms of pricing, the Radxa ROCK 5C Lite is priced at $29.9 for the 1GB variant, while the top configured 16GB variant retails at $104.9. Similarly, the Radxa ROCK 5C is priced at $49.9 for the 2GB version, while the top-of-the-line 32GB version retails for $199.9.</p>
+<p><img loading="lazy" alt="Radxa ROCK 5C" src="http://www.radxa.com/assets/images/rock_5c_leaflet-e0bf49debf6a8e918ab2803f1a32e970.webp" width="1920" height="1311" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radxa Penta SATA HAT Launch]]></title>
         <id>http://www.radxa.com/blog/Penta-SATA-HAT-Official-Announcement</id>
@@ -297,20 +310,6 @@
 <li><a href="https://bret.dk/best-microsd-card-for-rock-5b/" target="_blank" rel="noopener noreferrer"><strong>Third-party Link</strong></a></li>
 </ul>
 <p>Best tested different brands &amp; models of SD Cards on ROCK 5B</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radxa ROCK 5C Launch]]></title>
-        <id>http://www.radxa.com/blog/ROCK-5C-Official-Announcement</id>
-        <link href="http://www.radxa.com/blog/ROCK-5C-Official-Announcement"/>
-        <updated>2023-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Radxa ROCK 5C Officially Launched: Exceptional Performance with Enhanced Features]]></summary>
-        <content type="html"><![CDATA[<p>Radxa ROCK 5C Officially Launched: Exceptional Performance with Enhanced Features</p>
-<p><img loading="lazy" alt="Radxa ZERO 3W" src="http://www.radxa.com/assets/images/spec_zero3w_03-584814b18abe0eb50b4eee02d1077f98.webp" width="2080" height="1168" class="img_ev3q"></p>
-<p>Radxa has officially unveiled its new generation of ROCK single-board computer - the Radxa ROCK 5C. As the latest flagship in the ROCK 5 series, ROCK 5C not only inherits the exceptional performance of its predecessor but also achieves significant improvements and upgrades in both functionality and design.</p>
-<p>In terms of core configuration, ROCK 5C offers two SoC options: RK3582 and RK3588S2, catering to the needs of different user groups. Equipped with powerful Arm Cortex-A76 and ARM Cortex-A55 processors, it ensures outstanding performance across various application scenarios. Furthermore, ROCK 5C's camera, display, and etc interfaces have received comprehensive support from the Radxa accessory series, providing users with more possibilities and convenience, further enriching Radxa's hardware ecosystem.</p>
-<p>Regarding functional expansion, ROCK 5C introduces a PCIe 2.1 interface through an FPC connector, significantly enhancing its expansion flexibility. Users can easily perform SSD expansion, SATA expansion, 2.5G Ethernet expansion, and more, providing robust support for different application scenarios. Additionally, ROCK 5C comes with WiFi 6 and BT 5.4 wireless modules, further boosting its capabilities in wireless communication.</p>
-<p>In terms of pricing, the Radxa ROCK 5C Lite is priced at $29.9 for the 1GB variant, while the top configured 16GB variant retails at $104.9. Similarly, the Radxa ROCK 5C is priced at $49.9 for the 2GB version, while the top-of-the-line 32GB version retails for $199.9.</p>
-<p><img loading="lazy" alt="Radxa ZERO 3W" src="http://www.radxa.com/assets/images/spec_zero3w_03-584814b18abe0eb50b4eee02d1077f98.webp" width="2080" height="1168" class="img_ev3q"></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Radxa official website upgrade]]></title>
