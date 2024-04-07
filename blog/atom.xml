@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.radxa.com/blog</id>
     <title>Radxa News</title>
-    <updated>2024-03-28T10:00:00.000Z</updated>
+    <updated>2024-04-07T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.radxa.com/blog"/>
     <subtitle>Radxa's News is where you can find the newest product information, community updates, and more.</subtitle>
     <icon>http://www.radxa.com/Radxa.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Radxa CM5 Launch]]></title>
+        <id>http://www.radxa.com/blog/CM5-Official-Announcement</id>
+        <link href="http://www.radxa.com/blog/CM5-Official-Announcement"/>
+        <updated>2024-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Radxa CM5]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Radxa CM5" src="http://www.radxa.com/assets/images/spec_cm5_03-fe5b84ed464cb7d19e7da4afdccbe8cc.webp" width="2080" height="1168" class="img_ev3q"></p>
+<p>We are excited to announce the official release of the Radxa CM5, our latest high-performance compute module. Developed on the Rockchip RK3588S2 and RK3582 SoCs, the Radxa CM5 is designed to offer unparalleled power and flexibility to users. We anticipate it will excel in a variety of demanding applications, including but not limited to edge computing, deep learning, and embedded system development.</p>
+<p>Here are the main differences between the Radxa CM5 and the Radxa CM5 Lite:</p>
+<table><thead><tr><th>Spec</th><th>Radxa CM5</th><th>Radxa CM5 Lite</th></tr></thead><tbody><tr><td>SoC</td><td>Rockchip RK3588S2</td><td>Rockchip RK3582</td></tr><tr><td>CPU</td><td><strong>Quad</strong> ARM Cortex®-A76 and Quad ARM Cortex®-A55</td><td>Dual ARM Cortex®-A76 and Quad ARM Cortex®-A55</td></tr><tr><td>GPU</td><td><strong>ARM Mali-G610MC4</strong></td><td>No GPU</td></tr><tr><td>NPU</td><td><strong>6TOPs@INT8</strong></td><td>5TOPs@INT8</td></tr><tr><td>Multimedia</td><td><strong>H.265 and VP9 decoder by 8K@60fps, H.264 decoder by 8K@30fps, AV1 decoder by 4K@60fps, H.264 and H.265 encoder by 8K@30fps</strong></td><td>H.264 and H.265 encoder by 4K@60fps</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="continuous-evolution">Continuous Evolution<a href="http://www.radxa.com/blog/CM5-Official-Announcement#continuous-evolution" class="hash-link" aria-label="Direct link to Continuous Evolution" title="Direct link to Continuous Evolution">​</a></h2>
+<p>Since the development of the Radxa CM5 began, we have been actively listening to community feedback and continuously improving our product. In the latest V2.21 version, we paid special attention to user demand for onboard eMMC. As a result, compared to the initial release, V2.21 introduces an eMMC storage option, aiming to support applications that require faster data access speeds and increased storage reliability. Additionally, we have significantly enhanced the hardware compatibility of the module. Now, the Radxa CM5 can not only seamlessly integrate with our existing accessory ecosystem but also work with a broader range of third-party development boards and IO expansion boards. These advancements make the Radxa CM5 one of the most flexible and compatible compute modules on the market.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="expanded-compatibility">Expanded Compatibility<a href="http://www.radxa.com/blog/CM5-Official-Announcement#expanded-compatibility" class="hash-link" aria-label="Direct link to Expanded Compatibility" title="Direct link to Expanded Compatibility">​</a></h2>
+<p>The design philosophy of the Radxa CM5 has always centered around compatibility and user-friendliness. We are proud to announce that the Radxa CM5 is now compatible with leading hardware platforms in the industry, including the CM5 IO Board, Super 6c, and the RPi CM4 IO Board. This expanded compatibility ensures that the Radxa CM5 can be effortlessly integrated into the existing Raspberry Pi ecosystem while also providing additional options for developers who want to leverage the capabilities of modern processors. Whether for rapid prototyping or deployment in production environments, the extensive compatibility of the Radxa CM5 simplifies the development process and accelerates project implementation.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="designed-for-gpu-free-requirements----radxa-cm5-lite">Designed for GPU-free Requirements -- Radxa CM5 Lite<a href="http://www.radxa.com/blog/CM5-Official-Announcement#designed-for-gpu-free-requirements----radxa-cm5-lite" class="hash-link" aria-label="Direct link to Designed for GPU-free Requirements -- Radxa CM5 Lite" title="Direct link to Designed for GPU-free Requirements -- Radxa CM5 Lite">​</a></h2>
+<p>For scenarios that do not require GPU acceleration, the Radxa CM5 Lite offers an ideal solution. Although it lacks a GPU, this does not hinder its excellent performance in pure computational tasks, particularly in edge computing, industrial automation, and Internet of Things (IoT) devices. The design of the Radxa CM5 Lite takes into account cost-effectiveness and power consumption optimization, making it a perfect choice for running a variety of applications in GPU-less environments. Whether for data processing, intelligent control, or serving as a lightweight server, the CM5 Lite delivers stable and efficient performance.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-case-handheld-gaming-console">User Case: Handheld Gaming Console<a href="http://www.radxa.com/blog/CM5-Official-Announcement#user-case-handheld-gaming-console" class="hash-link" aria-label="Direct link to User Case: Handheld Gaming Console" title="Direct link to User Case: Handheld Gaming Console">​</a></h2>
+<p>The impressive power and versatility of the Radxa CM5 make it an ideal candidate for a variety of innovative projects. A prime example is its application in the development of handheld gaming devices. Thanks to its high-performance processor and graphic capabilities, gaming enthusiasts can enjoy a smooth gaming experience, even when playing graphically intensive and complex games. The compact size and capabilities of the CM5 make it a perfect core for handheld devices. You can view this user case on Twitter at <a href="https://twitter.com/StonedEdgeMods/status/1718099136149618993" target="_blank" rel="noopener noreferrer"><strong>StonedEdge</strong></a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="radxa-cm5-io-board">Radxa CM5 IO Board<a href="http://www.radxa.com/blog/CM5-Official-Announcement#radxa-cm5-io-board" class="hash-link" aria-label="Direct link to Radxa CM5 IO Board" title="Direct link to Radxa CM5 IO Board">​</a></h2>
+<p>When paired with the specially designed Radxa CM5 IO Board, the Radxa CM5 provides a complete development platform that makes accessing and testing Radxa's rich array of accessories straightforward. We encourage users to visit the <a href="http://www.radxa.com/products/io-board/cm5-io-board"><strong>Radxa CM5 IO Board</strong></a> page to learn more about the details of compatible accessories and how to fully harness the potential of the CM5 module for their custom projects. This powerful combination offers hardware developers unprecedented flexibility, whether for rapid prototyping or mass production, the Radxa CM5 and its IO Board can meet your needs.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="special-time-limited-discount">Special Time-limited Discount<a href="http://www.radxa.com/blog/CM5-Official-Announcement#special-time-limited-discount" class="hash-link" aria-label="Direct link to Special Time-limited Discount" title="Direct link to Special Time-limited Discount">​</a></h2>
+<p>Radxa CM5 is now available at an introductory special price. Whether you're looking for a cost-effective solution for your project or you need a higher specification of performance, the Radxa CM5 series has got you covered.</p>
+<p>For budget-conscious applications that do not require a GPU, the CM5 Lite offers three configurations at the following prices:</p>
+<ul>
+<li>4GB RAM + 32GB eMMC for <strong>$55.00</strong></li>
+<li>8GB RAM + 64GB eMMC for <strong>$75.00</strong></li>
+<li>16GB RAM + 128GB eMMC for <strong>$90.00</strong></li>
+</ul>
+<p>For users in need of more powerful performance, the CM5 series also offers three different configurations to support more complex applications and projects:</p>
+<ul>
+<li>4GB RAM + 32GB eMMC for <strong>$69.00</strong></li>
+<li>8GB RAM + 64GB eMMC for <strong>$89.00</strong></li>
+<li>16GB RAM + 128GB eMMC for <strong>$105.00</strong></li>
+</ul>
+<p><img loading="lazy" alt="Radxa CM5 Leaflet" src="http://www.radxa.com/assets/images/cm5_leaflet-e9c6dd4117d9a159c729ecda2d98ac42.webp" width="1920" height="1080" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Radxa CM5 Lite Leaflet" src="http://www.radxa.com/assets/images/cm5_lite_leaflet-e553d31789cb689fdafd5e0f08bc0af2.webp" width="1920" height="1080" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radxa ZERO 2 Pro in Stock]]></title>
         <id>http://www.radxa.com/blog/ZERO-2-PRO-In-Stock</id>
@@ -486,48 +523,5 @@
 <img loading="lazy" alt="Amiga_3000_mini_for_Radxa_ROCK_5B" src="http://www.radxa.com/assets/images/Amiga_3000_mini_for_Radxa_ROCK_5B-d14c9ff0056295da31bac0688f662b9f.webp" width="1474" height="1100" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="for-more-details">For more details<a href="http://www.radxa.com/blog/Amiga-like-customized-image-by-Jodels2002#for-more-details" class="hash-link" aria-label="Direct link to For more details" title="Direct link to For more details">​</a></h2>
 <p>For more details, see the <a href="https://forum.radxa.com/t/amiga-like-customized-image/15234" target="_blank" rel="noopener noreferrer">Amiga like customized image</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redroid running on ROCK 5B]]></title>
-        <id>http://www.radxa.com/blog/Redroid-running-on-ROCK-5B</id>
-        <link href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B"/>
-        <updated>2023-01-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What is Redroid ?]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-redroid-">What is Redroid ?<a href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B#what-is-redroid-" class="hash-link" aria-label="Direct link to What is Redroid ?" title="Direct link to What is Redroid ?">​</a></h2>
-<p>ReDroid (Remote anDroid) is a GPU accelerated AIC (Android In Cloud) solution. You can boot many instances in Linux host (Docker, podman, k8s etc.). redroid supports both arm64 and amd64 architectures. ReDroid is suitable for Cloud Gaming, Virtualise Phones, Automation Test and more.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-running-on-rock-5b">How to running on ROCK 5B<a href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B#how-to-running-on-rock-5b" class="hash-link" aria-label="Direct link to How to running on ROCK 5B" title="Direct link to How to running on ROCK 5B">​</a></h2>
-<p>ROCK 5B user ZHZ shows in his blog how he got Redroid running on the ROCK 5B.<a href="https://zhz.moe/57/#docker-run" target="_blank" rel="noopener noreferrer">Link to original article</a></p>
-<p>商业转载请联系作者获得授权，非商业转载请注明出处。
-For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.
-协议(License)：署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)
-作者(Author)：終
-链接(URL)：<a href="https://zhz.moe/57/" target="_blank" rel="noopener noreferrer">https://zhz.moe/57/</a>
-来源(Source)：終's Blog</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="preparation">Preparation<a href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B#preparation" class="hash-link" aria-label="Direct link to Preparation" title="Direct link to Preparation">​</a></h3>
-<p>First of all, the kernel should ensure that ANDROID_BINDERFS, ASHMEM, PSI are enabled.</p>
-<p>Refer to <a href="https://wiki.archlinux.org/title/Anbox#Using_binderfs" target="_blank" rel="noopener noreferrer">archwikianbox page</a> use binderfs way to open support, ashmem do not know why can not be added as a module, here directly enable.</p>
-<p>scripts/config --enable  CONFIG_ASHMEM
-scripts/config --enable  CONFIG_ANDROID
-scripts/config --enable  CONFIG_ANDROID_BINDER_IPC
-scripts/config --enable  CONFIG_ANDROID_BINDERFS
-scripts/config --set-str CONFIG_ANDROID_BINDER_DEVICES ""
-scripts/config --enable  CONFIG_PSI</p>
-<p>Write the kernel parameters according to the wiki and mount binderfs.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="docker-run">docker run<a href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B#docker-run" class="hash-link" aria-label="Direct link to docker run" title="Direct link to docker run">​</a></h3>
-<p>image: chisbread/rk3588-gaming<!-- -->:redroid-firefly<br>
-<!-- -->image source:<a href="https://github.com/ChisBread/malior#malior-redroid" target="_blank" rel="noopener noreferrer">malior-redroid</a> | <a href="https://wiki.t-firefly.com/zh_CN/iCore-3588Q/usage_aic.html" target="_blank" rel="noopener noreferrer">容器虚拟安卓 — Firefly Wiki (t-firefly.com)</a></p>
-<p>docker run -itd --rm --privileged \<br>
-<!-- -->--pull always <br>
-<!-- -->-v /data:/data <br>
-<!-- -->-p 5555:5555 <br>
-<!-- -->chisbread/rk3588-gaming<!-- -->:redroid-firefly<!-- --> <br>
-<!-- -->androidboot.redroid_height=1600 <br>
-<!-- -->androidboot.redroid_width=2560 <br>
-<!-- -->androidboot.redroid_dpi=480 <br>
-<!-- -->androidboot.redroid_gpu_mode=host <br>
-<!-- -->--mount=type=bind，source=/dev/mali0，destination=/dev/mali0</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="result">result<a href="http://www.radxa.com/blog/Redroid-running-on-ROCK-5B#result" class="hash-link" aria-label="Direct link to result" title="Direct link to result">​</a></h3>
-<p>Here the <a href="https://github.com/barry-ran/QtScrcpy" target="_blank" rel="noopener noreferrer">QtScrcpy</a> connection is used.
-<img loading="lazy" alt="result_play_yuanshen" src="http://www.radxa.com/assets/images/ZHZ_play-48bc3e99fb828d0e8c740a076b0ae467.webp" width="2254" height="1427" class="img_ev3q"></p>]]></content>
     </entry>
 </feed>
