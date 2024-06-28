@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkradxa_web=self.webpackChunkradxa_web||[]).push([[1898],{35784:(s,a,e)=>{e.r(a),e.d(a,{default:()=>t});e(96540);var c=e(56101);const n="content_JcL9",d="info_t_b_zivz";var r=e(74848);const t=()=>(0,r.jsx)(c.A,{children:(0,r.jsx)("div",{className:n,children:(0,r.jsx)("div",{className:d})})})}}]);
