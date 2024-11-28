@@ -29,7 +29,7 @@ The module is optimized to accelerate inference tasks for models converted to dx
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hardware-installation">Hardware Installation<a class="hash-link" aria-label="Direct link to Hardware Installation" title="Direct link to Hardware Installation" href="http://www.radxa.com/blog/Deepx-On-Rock-5b-Plus#hardware-installation">​</a></h2>
 <p>Insert the DX-M1 module into the M.2 slot of the ROCK 5B+ and power on.
 The ROCK 5B+ has two M.2 slots on the bottom, so even with the DX-M1 installed, another SSD can be installed if desired.</p>
-<p align="center"><img src="http://www.radxa.com/news/deepx_2.webp"></p>
+<p align="center"><img src="http://www.radxa.com/news/deepx_8.webp"></p>
 <p align="center"><i>Fig.3 DX-M1 Installation Diagram</i></p>
 <p>After booting the system, confirm PCIe device recognition.</p>
 <p align="center"><img src="http://www.radxa.com/news/deepx_3.webp"></p>
