@@ -4,25 +4,10 @@
         <title>Radxa News</title>
         <link>http://www.radxa.com/blog</link>
         <description>Radxa's News is where you can find the newest product information, community updates, and more.</description>
-        <lastBuildDate>Wed, 22 Jan 2025 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[How to Achieve Efficient Deployment of YOLO11 Model with Radxa Single Board Computers]]></title>
-            <link>http://www.radxa.com/blog/How-to-Achieve-Efficient-Deployment-of-YOLO11-Model</link>
-            <guid>http://www.radxa.com/blog/How-to-Achieve-Efficient-Deployment-of-YOLO11-Model</guid>
-            <pubDate>Wed, 22 Jan 2025 10:00:00 GMT</pubDate>
-            <description><![CDATA[Currently, the Ultralytics library officially supports the RKNN platform. Users of RK3588/356X products can directly use the ultralytics library for YOLOv11 model conversion and deployment., opening new opportunities for computer vision model applications on embedded devices.]]></description>
-            <content:encoded><![CDATA[<p>Currently, the <a href="https://docs.ultralytics.com/integrations/rockchip-rknn/" target="_blank" rel="noopener noreferrer">Ultralytics</a> library officially supports the RKNN platform. Users of RK3588/356X products can directly use the <code>ultralytics</code> library for YOLOv11 model conversion and deployment., opening new opportunities for computer vision model applications on embedded devices.</p>
-<p><img decoding="async" loading="lazy" alt="Rockchip RKNN" src="http://www.radxa.com/assets/images/rockchip-rknn-bce45b62e5c592f99e53b52e14de8e7b.webp" width="556" height="296" class="img_ev3q"></p>
-<p>Radxa's ROCK 5B runs on Rockchip's RK3588 processor; ZERO 3W, on RK3566. Their excellent performance and stability provide a solid hardware base for model export and verification.</p>
-<p>The RKNN Toolkit, developed by Rockchip, was crucial in exporting the Ultralytics YOLO11 model to RKNN. This toolkit, a set of professional tools for deep - learning model deployment on Rockchip hardware, features the RKNN format. Optimized for Rockchip's NPU, RKNN unlocks full hardware acceleration on devices like RK3588 and RK3566, ensuring high - performance AI task execution.</p>
-<p>The RKNN model offers many unique benefits. Its NPU - optimized design maximizes performance on Rockchip's NPU. Its low - latency trait suits real - time edge - device apps. Also, it can be customized for different Rockchip platforms, enhancing hardware resource use and overall efficiency.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deploying-exported-ultralytics-yolo11-rknn-models">Deploying Exported Ultralytics YOLO11 RKNN Models<a class="hash-link" aria-label="Direct link to Deploying Exported Ultralytics YOLO11 RKNN Models" title="Direct link to Deploying Exported Ultralytics YOLO11 RKNN Models" href="http://www.radxa.com/blog/How-to-Achieve-Efficient-Deployment-of-YOLO11-Model#deploying-exported-ultralytics-yolo11-rknn-models">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="for-more-details">For more details<a class="hash-link" aria-label="Direct link to For more details" title="Direct link to For more details" href="http://www.radxa.com/blog/How-to-Achieve-Efficient-Deployment-of-YOLO11-Model#for-more-details">​</a></h2>
-<p>For more details, see the <a href="https://docs.ultralytics.com/integrations/rockchip-rknn/" target="_blank" rel="noopener noreferrer">Rockchip RKNN Export for Ultralytics YOLO11 Models</a></p>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Enhancing ROCK 5B+ with DEEPX DX-M1 AI Module]]></title>
             <link>http://www.radxa.com/blog/Deepx-On-Rock-5b-Plus</link>
