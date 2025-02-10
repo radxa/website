@@ -1,0 +1,22 @@
+name: Check Links
+
+on:
+  push:
+    branches:
+      - gh-pages
+  pull_request:
+  schedule:
+    - cron: "0 12 * * 1" # 每周一中午运行
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Lychee link checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --accept 200,429 --timeout 50s
+          fail: true
