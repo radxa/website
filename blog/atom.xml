@@ -145,7 +145,6 @@ Running the Llama-7B model on SG2300x, with weight quantization to INT4 and comp
 <p>(Note: LLama 3 8B's knowledge is updated until March 2023)</p>
 <p>As you can see, LLama 3 8B runs extremely smoothly on Airbox, achieving a processing speed of 9.6 tokens/s, fully demonstrating its practical value.</p>
 <p>The AirBox team has taken the lead in launching an online experience based on LLama 3 8B on AirBox. We welcome everyone to personally experience the outstanding performance of LLama 3 and the powerful computing power provided by AirBox.</p>
-<p><a href="http://47.93.45.6:12224/" target="_blank" rel="noopener noreferrer">Experience Llama3-8B online now</a>.</p>
 <p>(Note: The service is based on a single AirBox deployment. If there is a high volume of concurrent users, there may be queues. For a deeper experience, we recommend trying during off-peak hours.)</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-casa-os">Support CASA OS<a class="hash-link" aria-label="Direct link to Support CASA OS" title="Direct link to Support CASA OS" href="http://www.radxa.com/blog/Radxa-Fogwise-AirBox-is-now-available-for-pre-order#support-casa-os">​</a></h3>
 <p>A lightweight and feature-rich open-source dashboard system</p>
@@ -189,9 +188,7 @@ Whisper, an efficient speech recognition model, seamlessly converts speech into 
 <li>20V/3A Power adapter</li>
 <li>USB MIC</li>
 <li>Intel WIFI6 Wireless Module</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="try-llama3-8b-running-on-airbox">Try Llama3-8B running on AirBox<a class="hash-link" aria-label="Direct link to Try Llama3-8B running on AirBox" title="Direct link to Try Llama3-8B running on AirBox" href="http://www.radxa.com/blog/Radxa-Fogwise-AirBox-is-now-available-for-pre-order#try-llama3-8b-running-on-airbox">​</a></h2>
-<p><a href="http://47.93.45.6:12224/" target="_blank" rel="noopener noreferrer">Click here</a></p>]]></content>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Radxa NIO 12L Launch]]></title>
@@ -353,7 +350,7 @@ Whisper, an efficient speech recognition model, seamlessly converts speech into 
         <updated>2023-03-24T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Over the past period of time, our colleagues Vicky and XZQ have worked together to design and update Radxa's official website.]]></summary>
         <content type="html"><![CDATA[<p>Over the past period of time, our colleagues Vicky and XZQ have worked together to design and update Radxa's official website.</p>
-<p>We hope to bring you a better experience with this new website. And by the way, we have also designed a new documentation site at docs.radxa.com with source code <a href="https://github.com/radxa-docs/documentation" target="_blank" rel="noopener noreferrer">hosted on GitHub</a>, where all users can send PR and contribute your content.</p>
+<p>We hope to bring you a better experience with this new website. And by the way, we have also designed a new documentation site at docs.radxa.com with source code <a href="https://github.com/radxa-docs/docs" target="_blank" rel="noopener noreferrer">hosted on GitHub</a>, where all users can send PR and contribute your content.</p>
 <p>We sincerely hope that these will bring Radxa users a better experience:</p>
 <ul>
 <li>Clearer presentation of the product line</li>
