@@ -4,10 +4,92 @@
         <title>Radxa News</title>
         <link>https://www.radxa.com/blog</link>
         <description>Radxa's News is where you can find the newest product information, community updates, and more.</description>
-        <lastBuildDate>Tue, 18 Feb 2025 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Fogwise AIRbox Q900 Official Release: Edge Intelligence, Ready from Day One]]></title>
+            <link>https://www.radxa.com/blog/fogwise-airbox-q900-official-release</link>
+            <guid>https://www.radxa.com/blog/fogwise-airbox-q900-official-release</guid>
+            <pubDate>Tue, 30 Sep 2025 10:00:00 GMT</pubDate>
+            <description><![CDATA[September 2025 — Radxa officially announces the launch of the Fogwise AIRbox Q900, a compact yet rugged industrial-grade Edge AI box powered by the Qualcomm® IQ-9075 processor. Combining powerful compute with reliability and ease of use, the Q900 represents a turning point: edge intelligence moving from concept to true plug-and-play deployment.]]></description>
+            <content:encoded><![CDATA[<p><strong>September 2025</strong> — Radxa officially announces the launch of the <strong>Fogwise AIRbox Q900</strong>, a compact yet rugged industrial-grade Edge AI box powered by the <strong>Qualcomm® IQ-9075 processor</strong>. Combining powerful compute with reliability and ease of use, the Q900 represents a turning point: edge intelligence moving from concept to true plug-and-play deployment.</p>
+<p><img decoding="async" loading="lazy" alt="AIRbox Q900" src="https://www.radxa.com/assets/images/airbox-top-73250be3d3a7e8df9ff3b7fd81867ef5.webp" width="1996" height="1346" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-era-of-edge-ai-has-arrived">The Era of Edge AI Has Arrived<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#the-era-of-edge-ai-has-arrived" class="hash-link" aria-label="Direct link to The Era of Edge AI Has Arrived" title="Direct link to The Era of Edge AI Has Arrived">​</a></h2>
+<p>Artificial intelligence has permeated nearly every aspect of our lives, but in most cases, compute power still resides in the cloud. This creates challenges around latency, cost, and privacy.</p>
+<p>Imagine traffic lights relying on cloud-based recognition—by the time data is uploaded, processed, and returned, the moment for optimal traffic flow might already be gone. On the factory floor, delayed defect detection could mean missed opportunities to remove faulty products in real time.</p>
+<p>The advantage of edge AI lies in on-site processing: real-time responsiveness, privacy by keeping data local, and reduced bandwidth usage. The Fogwise AIRbox Q900 was built precisely for this.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-powerful-core">A Powerful Core<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#a-powerful-core" class="hash-link" aria-label="Direct link to A Powerful Core" title="Direct link to A Powerful Core">​</a></h2>
+<p>At its heart, the AIRbox Q900 features the <strong>Qualcomm® IQ-9075 processor</strong>.</p>
+<p><img decoding="async" loading="lazy" alt="IQ-9075 Block Diagram" src="https://www.radxa.com/assets/images/iq-9075-block-diagram-69f20826f3c0f7dbe8fd38357852fde9.webp" width="1348" height="826" class="img_ev3q"></p>
+<ul>
+<li><strong>CPU:</strong> Octa-core Kryo Gen6 CPU, full big-core Arm Cortex-A78C design, up to 2.36 GHz, delivering <strong>230K DMIPS</strong> for compute-intensive workloads.</li>
+<li><strong>GPU:</strong> Integrated Adreno™ 663 GPU, peak performance up to <strong>1.2 TFLOPS</strong>, with support for OpenGL, OpenCL, and Vulkan, accelerating both graphics rendering and parallel compute.</li>
+<li><strong>NPU:</strong> Dual Hexagon™ NPUs with up to <strong>100 TOPS dense performance</strong> and up to <strong>200 TOPS in sparse mode</strong>, enabling efficient inference across vision, speech, and multimodal tasks.</li>
+</ul>
+<p>Notably, the Q900 can run <strong>7B-parameter large language models locally</strong>, achieving inference speeds up to <strong>22 tokens per second</strong>. What was once limited to datacenters can now run smoothly on a compact edge device.</p>
+<p>Together, CPU, GPU, and NPU form a synergistic compute engine—making the AIRbox Q900 not just a compute box, but a micro-scale “brain” for intelligent edge inference.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="built-for-industrial-environments">Built for Industrial Environments<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#built-for-industrial-environments" class="hash-link" aria-label="Direct link to Built for Industrial Environments" title="Direct link to Built for Industrial Environments">​</a></h2>
+<p>True to Radxa’s industrial DNA, the AIRbox Q900 features:</p>
+<ul>
+<li><strong>Full metal housing</strong> for durability and heat dissipation</li>
+<li><strong>Wide temperature operation</strong> for reliability in harsh conditions</li>
+<li><strong>Active cooling design</strong>, with typical power consumption of just 20 W for long-term, quiet, low-maintenance operation</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="AIRbox Q900 at Induatrial Environment" src="https://www.radxa.com/assets/images/q900-industrial-env-6593cfa7ac0f97f8908c99d445f2174d.webp" width="1424" height="806" class="img_ev3q"></p>
+<p>For enterprises, this means a device that can run around the clock with confidence.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="flexible-connectivity-and-expansion">Flexible Connectivity and Expansion<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#flexible-connectivity-and-expansion" class="hash-link" aria-label="Direct link to Flexible Connectivity and Expansion" title="Direct link to Flexible Connectivity and Expansion">​</a></h2>
+<p>The AIRbox Q900 is more than a standalone box—it’s a versatile edge platform:</p>
+<ul>
+<li><strong>Networking:</strong> 5G, Wi-Fi 6E, and Gigabit Ethernet with <strong>TSN (Time-Sensitive Networking)</strong> for deterministic, low-latency communication in automation and robotics.</li>
+<li><strong>I/O Interfaces:</strong> From USB to HDMI, from M.2 to industrial I/O, it supports a wide range of sensors, cameras, and external modules.</li>
+</ul>
+<p>Whether serving as an IoT gateway or an edge server, the Q900 adapts with ease.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="plug-and-play-ai">Plug-and-Play AI<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#plug-and-play-ai" class="hash-link" aria-label="Direct link to Plug-and-Play AI" title="Direct link to Plug-and-Play AI">​</a></h2>
+<p>For many developers, deploying AI often means complex environment setup. On the AIRbox Q900, this is radically simplified. It ships with an optimized system, ready to run mainstream AI frameworks and applications right out of the box. Developers can quickly integrate their own algorithms via SDKs and APIs.</p>
+<p><img decoding="async" loading="lazy" alt="CasaOS Backend" src="https://www.radxa.com/assets/images/casaos-backend-21112cbb7e0f073b64cb60a6a4dbb5e0.webp" width="1516" height="935" class="img_ev3q"></p>
+<p>Even better, the Q900 comes pre-loaded with <strong>CasaOS</strong>—a user-friendly app management platform. With its visual interface, even Linux newcomers can install and manage AI applications as easily as mobile apps. CasaOS includes an app store and container support, making AI deployment more accessible than ever.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-complete-ai-development-ecosystem">A Complete AI Development Ecosystem<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#a-complete-ai-development-ecosystem" class="hash-link" aria-label="Direct link to A Complete AI Development Ecosystem" title="Direct link to A Complete AI Development Ecosystem">​</a></h2>
+<p>Hardware is just the foundation—true value comes from the ecosystem. The AIRbox Q900 provides:</p>
+<ul>
+<li><strong>QAirT SDK</strong> for efficient deployment of mainstream deep learning models</li>
+<li><strong>AIMET tools</strong> for quantization and pruning to optimize models for edge use</li>
+<li><strong>QAI App Builder</strong> to package models into deployable applications</li>
+<li><strong>QAI Hub</strong> with a library of pretrained models covering vision, speech, and more</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="QAI Hub" src="https://www.radxa.com/assets/images/qai-hub-64cefa38b1d5c8eb79cca950adc80c14.webp" width="1610" height="614" class="img_ev3q"></p>
+<p>From algorithm to application, developers gain a ready-made toolkit to accelerate research and deployment cycles.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-airbox">Why AIRbox?<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#why-airbox" class="hash-link" aria-label="Direct link to Why AIRbox?" title="Direct link to Why AIRbox?">​</a></h2>
+<p>The name AIRbox reflects Radxa’s vision of edge AI, built on <strong>five core pillars</strong>:</p>
+<ul>
+<li><strong>AI Ready</strong> — plug in and run models out of the box</li>
+<li><strong>AI Recognition</strong> — process vision, speech, and sensor data instantly</li>
+<li><strong>AI Reasoning</strong> — move beyond execution to local decision-making</li>
+<li><strong>AI Realtime</strong> — achieve millisecond-level response without the cloud</li>
+<li><strong>AI Resilience</strong> — rugged, industrial-grade design for 24/7 operation</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="AIRbox Five R" src="https://www.radxa.com/assets/images/what-is-airbox-55a8759bf16cf751fc1fb8cc95e16801.webp" width="2880" height="1067" class="img_ev3q"></p>
+<p>These qualities define what sets AIRbox apart from other edge devices.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="endless-application-scenarios">Endless Application Scenarios<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#endless-application-scenarios" class="hash-link" aria-label="Direct link to Endless Application Scenarios" title="Direct link to Endless Application Scenarios">​</a></h2>
+<p>The AIRbox Q900 fits into a wide range of industries and use cases:</p>
+<ul>
+<li><strong>Smart Cities:</strong> Real-time traffic video analysis for optimized flow</li>
+<li><strong>Industrial Manufacturing:</strong> On-site defect detection to reduce waste</li>
+<li><strong>Retail:</strong> Customer behavior analytics for smarter operations</li>
+<li><strong>Robotics &amp; UAVs:</strong> On-board inference for autonomous platforms</li>
+<li><strong>Education &amp; Research:</strong> Cost-effective platform for AI teaching and experimentation</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="radxas-commitment">Radxa’s Commitment<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#radxas-commitment" class="hash-link" aria-label="Direct link to Radxa’s Commitment" title="Direct link to Radxa’s Commitment">​</a></h2>
+<p>At Radxa, we believe in growing alongside developers. The launch of the Fogwise AIRbox Q900 marks a major milestone in our journey into Edge AI. With it, we aim to bring the benefits of edge intelligence into more industries and applications.</p>
+<p>Looking ahead, Radxa will continue expanding the Fogwise product line, delivering flexible and powerful edge computing solutions for enterprises and developers worldwide.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lear-more-about-airbox-q900">Lear more about AIRbox Q900<a href="https://www.radxa.com/blog/fogwise-airbox-q900-official-release#lear-more-about-airbox-q900" class="hash-link" aria-label="Direct link to Lear more about AIRbox Q900" title="Direct link to Lear more about AIRbox Q900">​</a></h2>
+<ul>
+<li>• <a href="https://radxa.com/products/fogwise/airbox-q900" target="_blank" rel="noopener noreferrer">AIRbox Q900 Product Page</a></li>
+<li>• <a href="https://dl.radxa.com/fogwise/airbox-q900/docs/radxa_fogwise_airbox_q900_product_brief_v1.2_20250930.pdf" target="_blank" rel="noopener noreferrer">AIRbox Q900 Product Brief Download</a></li>
+<li>• <a href="https://dl.radxa.com/fogwise/airbox-q900/docs/Fogwise_AIRbox_Q900_Features.pdf" target="_blank" rel="noopener noreferrer">AIRbox Q900 Features Flyer Download</a></li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AirBox Successfully Ports DeepSeek-R1 Models]]></title>
             <link>https://www.radxa.com/blog/AirBox_Successfully_Ports_DeepSeek_R1_Models</link>
