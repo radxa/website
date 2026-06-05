@@ -2,11 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.radxa.com/blog</id>
     <title>Radxa News</title>
-    <updated>2025-09-30T10:00:00.000Z</updated>
+    <updated>2026-06-03T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.radxa.com/blog"/>
     <subtitle>Radxa's News is where you can find the newest product information, community updates, and more.</subtitle>
     <icon>https://www.radxa.com/Radxa.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[DragonStation and DragonBay AI NAS Systems]]></title>
+        <id>https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems</id>
+        <link href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems"/>
+        <updated>2026-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Radxa introduces upcoming Qualcomm-powered AI NAS systems with Fygo OS pre-installed.]]></summary>
+        <content type="html"><![CDATA[<p><strong>Radxa introduces upcoming Qualcomm-powered AI NAS systems with Fygo OS pre-installed.</strong></p>
+<p><img decoding="async" loading="lazy" alt="DragonStation and DragonBay AI NAS Systems" src="https://www.radxa.com/assets/images/dragon_nas_poster-904ec985a5b85ddf1d74094becbf7652.jpg" width="2880" height="1620" class="img_ev3q"></p>
+<p><strong>Shenzhen, China — June 3, 2026</strong> — Radxa today announced that its upcoming AI NAS products, <strong>DragonStation</strong> and <strong>DragonBay</strong>, will ship with <strong>Fygo OS</strong> pre-installed, providing users with a complete private cloud and local AI experience right out of the box.</p>
+<p>Built on Qualcomm's high-performance computing platform, DragonStation and DragonBay combine powerful hardware with the intelligent software capabilities of Fygo OS, enabling users to securely store, manage, search, and interact with their data while maintaining full ownership and privacy.</p>
+<p>As AI workloads increasingly move from the cloud to local infrastructure, users need systems that can not only store data, but also run AI services, process media, and support modern personal and team workflows. DragonStation and DragonBay are designed to meet that need.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dragonstation-all-flash-ai-nas-and-local-ai-workstation">DragonStation: All-Flash AI NAS and Local AI Workstation<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#dragonstation-all-flash-ai-nas-and-local-ai-workstation" class="hash-link" aria-label="Direct link to DragonStation: All-Flash AI NAS and Local AI Workstation" title="Direct link to DragonStation: All-Flash AI NAS and Local AI Workstation">​</a></h2>
+<p>DragonStation is an all-flash AI NAS designed for developers, creators, AI enthusiasts, and professional users who require both high-performance storage and local AI computing.</p>
+<p>Featuring six NVMe SSD slots, dual 10GbE networking, and Qualcomm-powered computing, DragonStation delivers the speed required for AI datasets, model libraries, media production, and real-time workloads.</p>
+<p>Key features include:</p>
+<ul>
+<li><strong>6x M.2 NVMe SSD slots</strong></li>
+<li><strong>Up to 48TB all-flash storage</strong></li>
+<li><strong>Dual 10GbE networking</strong></li>
+<li><strong>Qualcomm Snapdragon computing platform</strong></li>
+<li><strong>Optional AI accelerator expansion up to 320 TOPS</strong></li>
+<li><strong>Support for local deployment of AI models up to 120B parameters</strong></li>
+<li><strong>CNC aluminum enclosure</strong></li>
+<li><strong>Expandable magnetic front-panel ecosystem</strong></li>
+</ul>
+<p>More than a traditional NAS, DragonStation acts as a local AI data hub where storage, models, and inference coexist on a single device.</p>
+<p>With support for high-performance AI accelerator expansion, DragonStation can power a wide range of AI-native applications, including:</p>
+<ul>
+<li>Personal AI assistants</li>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Knowledge base search</li>
+<li>AI-powered content creation</li>
+<li>Autonomous AI agents</li>
+<li>Local large language model deployment</li>
+</ul>
+<p>By keeping both data and AI processing local, DragonStation delivers lower latency, reduced cloud dependency, and greater privacy for sensitive information.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dragonbay-hybrid-ai-nas-for-home-and-team-private-clouds">DragonBay: Hybrid AI NAS for Home and Team Private Clouds<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#dragonbay-hybrid-ai-nas-for-home-and-team-private-clouds" class="hash-link" aria-label="Direct link to DragonBay: Hybrid AI NAS for Home and Team Private Clouds" title="Direct link to DragonBay: Hybrid AI NAS for Home and Team Private Clouds">​</a></h2>
+<p>DragonBay is designed for users who prioritize large-capacity storage while still benefiting from modern AI-powered services and private cloud functionality.</p>
+<p>Combining HDD storage with NVMe acceleration, DragonBay provides a balanced solution for media libraries, backups, file sharing, and local AI applications.</p>
+<p>Key features include:</p>
+<ul>
+<li><strong>4x HDD drive bays</strong></li>
+<li><strong>NVMe SSD acceleration</strong></li>
+<li><strong>Up to 140TB+ storage capacity</strong></li>
+<li><strong>Dual 2.5GbE networking</strong></li>
+<li><strong>Qualcomm Snapdragon computing platform</strong></li>
+<li><strong>CNC aluminum enclosure</strong></li>
+<li><strong>Expandable magnetic front-panel ecosystem</strong></li>
+</ul>
+<p>DragonBay is ideal for families, creators, and small teams looking to build a private cloud capable of storing photos, videos, documents, and AI-generated content while maintaining full control over their data.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="powered-by-fygo-os">Powered by Fygo OS<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#powered-by-fygo-os" class="hash-link" aria-label="Direct link to Powered by Fygo OS" title="Direct link to Powered by Fygo OS">​</a></h2>
+<p>Both DragonStation and DragonBay come with Fygo OS pre-installed, eliminating the complexity often associated with NAS setup and deployment.</p>
+<p>Fygo OS is a powerful yet effortless NAS operating system compatible with both x86 and ARM architectures. Through its clean and unified web dashboard, users can easily manage storage pools, RAID configurations, applications, services, and system settings from a single interface.</p>
+<p><img decoding="async" loading="lazy" alt="Fygo OS dashboard" src="https://www.radxa.com/assets/images/fygoOS_screenshot-ee2900e484da4b62d51276920562a0ff.png" width="2382" height="1338" class="img_ev3q"></p>
+<p>The operating system is designed to make personal data more accessible, intelligent, and private.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-powered-photo-management">AI-Powered Photo Management<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#ai-powered-photo-management" class="hash-link" aria-label="Direct link to AI-Powered Photo Management" title="Direct link to AI-Powered Photo Management">​</a></h2>
+<p>Fygo OS includes an on-device AI photo gallery capable of:</p>
+<ul>
+<li>Natural-language photo search</li>
+<li>Face recognition</li>
+<li>Location-based search</li>
+<li>Intelligent photo categorization</li>
+</ul>
+<p>All AI processing is performed locally, ensuring personal photos and metadata never need to leave the device.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="private-media-streaming-with-fygo-tv">Private Media Streaming with Fygo TV<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#private-media-streaming-with-fygo-tv" class="hash-link" aria-label="Direct link to Private Media Streaming with Fygo TV" title="Direct link to Private Media Streaming with Fygo TV">​</a></h2>
+<p>Fygo TV transforms personal media collections into a premium streaming experience.</p>
+<p>Movies and TV shows are automatically organized into elegant poster-wall libraries, while high-bitrate content can be streamed smoothly across a wide range of devices.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cross-device-file-access-with-fygosync">Cross-Device File Access with FygoSync<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#cross-device-file-access-with-fygosync" class="hash-link" aria-label="Direct link to Cross-Device File Access with FygoSync" title="Direct link to Cross-Device File Access with FygoSync">​</a></h2>
+<p>FygoSync enables users to securely access files from anywhere while providing flexible synchronization options across computers, smartphones, and tablets.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="advanced-features-for-power-users">Advanced Features for Power Users<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#advanced-features-for-power-users" class="hash-link" aria-label="Direct link to Advanced Features for Power Users" title="Direct link to Advanced Features for Power Users">​</a></h2>
+<p>Fygo OS also provides advanced capabilities including:</p>
+<ul>
+<li>Windows ACL support</li>
+<li>Docker containers</li>
+<li>Virtual machines</li>
+<li>Multi-user management</li>
+<li>Application ecosystem support</li>
+</ul>
+<p>In addition to web-based management, native applications are available for:</p>
+<ul>
+<li>iOS</li>
+<li>Android</li>
+<li>Windows</li>
+<li>macOS</li>
+<li>Smart TVs</li>
+</ul>
+<p>This allows users to access and manage their data anytime and anywhere.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="building-the-future-of-private-ai-infrastructure">Building the Future of Private AI Infrastructure<a href="https://www.radxa.com/blog/DragonStation-and-DragonBay-AI-NAS-Systems#building-the-future-of-private-ai-infrastructure" class="hash-link" aria-label="Direct link to Building the Future of Private AI Infrastructure" title="Direct link to Building the Future of Private AI Infrastructure">​</a></h2>
+<p>The rise of local AI is transforming how users interact with their data. Instead of uploading personal information to cloud services, users increasingly want AI systems that run closer to where their data lives.</p>
+<p>By combining Qualcomm-powered hardware, high-speed storage, and the intelligent capabilities of Fygo OS, DragonStation and DragonBay provide a foundation for the next generation of private AI infrastructure.</p>
+<p>Whether building a personal AI assistant, managing a family media library, deploying a local knowledge base, or running AI services at the edge, users can now deploy a complete solution that integrates storage, AI computing, and private cloud functionality in a single system.</p>
+<p>DragonStation and DragonBay will be available with Fygo OS pre-installed, enabling users to get started immediately without additional operating system installation or configuration.</p>
+<p>For more information, visit <a href="https://fygonas.com/" target="_blank" rel="noopener noreferrer">fygonas.com</a>.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fogwise AIRbox Q900 Official Release: Edge Intelligence, Ready from Day One]]></title>
         <id>https://www.radxa.com/blog/fogwise-airbox-q900-official-release</id>
